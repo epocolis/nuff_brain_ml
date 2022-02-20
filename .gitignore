@@ -1,3 +1,14 @@
 *.csv
 *.zip
 *~
+*.pb
+*.tsv
+*.pbtxt
+*.index
+*.gz
+*.meta
+*.local
+*-empty
+*-checkpoint.ipynb
+checkpoint
+*00001
